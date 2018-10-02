@@ -5,5 +5,6 @@ int main() {
     printf(" 不已fast forword方式合并 ")
     printf(" --no-ff")
     printf(" 我正在dev开发工作")
+    printf(" 另一个开发人员")
     return 0;
 }
